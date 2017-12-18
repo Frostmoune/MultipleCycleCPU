@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testCPU_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testCPU" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1201165565fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="122"></NameColumnWidth>
+      <ValueColumnWidth column_width="79"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/testCPU/cpu/pc/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/curPC" type="array">
+      <obj_property name="ElementShortName">curPC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">curPC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/nextPC" type="array">
+      <obj_property name="ElementShortName">nextPC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">nextPC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/Rs" type="array">
+      <obj_property name="ElementShortName">Rs[4:0]</obj_property>
+      <obj_property name="ObjectShortName">Rs[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/ReadData1" type="array">
+      <obj_property name="ElementShortName">ReadData1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ReadData1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/Rt" type="array">
+      <obj_property name="ElementShortName">Rt[4:0]</obj_property>
+      <obj_property name="ObjectShortName">Rt[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/ReadData2" type="array">
+      <obj_property name="ElementShortName">ReadData2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ReadData2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/Result" type="array">
+      <obj_property name="ElementShortName">Result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Result[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/DataOut" type="array">
+      <obj_property name="ElementShortName">DataOut[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DataOut[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/Register/Register" type="array">
+      <obj_property name="ElementShortName">Register[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">Register[0:31][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/Data/memory" type="array">
+      <obj_property name="ElementShortName">memory[0:59][7:0]</obj_property>
+      <obj_property name="ObjectShortName">memory[0:59][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testCPU/cpu/Data/DAddr" type="array">
+      <obj_property name="ElementShortName">DAddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DAddr[31:0]</obj_property>
+   </wvobject>
+</wave_config>

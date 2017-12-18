@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Thu Dec 14 09:00:51 2017
+# Process ID: 6240
+# Current directory: E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.sim/sim_1/behav/xsim/xsim.dir/testCPU_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.sim/sim_1/behav/xsim/xsim.dir/testCPU_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:08 . Memory (MB): peak = 52.535 ; gain = 1.098
+INFO: [Common 17-206] Exiting Webtalk at Thu Dec 14 09:00:59 2017...

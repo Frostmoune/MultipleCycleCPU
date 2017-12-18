@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Mon Dec 18 17:53:25 2017
+# Process ID: 6744
+# Current directory: E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.runs/impl_1
+# Command line: vivado.exe -log MainCPU.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source MainCPU.tcl -notrace
+# Log file: E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.runs/impl_1/MainCPU.vdi
+# Journal file: E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source MainCPU.tcl -notrace

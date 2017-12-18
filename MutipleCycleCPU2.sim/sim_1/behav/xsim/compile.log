@@ -1,0 +1,36 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/DataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/DataRegister.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataRegister
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/ExtendSa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Extend_Sa
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/InstructionMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/InstructionRegister.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionRegister
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/JumpPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module JumpPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/MultipleCycleCPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MultipleCycleCPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/PC_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/Select2_to_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Select2_to_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/Select2_to_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Select2_to_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/Select32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Select32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/SignZeroExtend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignZeroExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MutipleCycleCPU2/MutipleCycleCPU2.srcs/sources_1/new/SkipPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SkipPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/MultipleCycleCPU2/testCPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testCPU
